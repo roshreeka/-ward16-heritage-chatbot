@@ -1,0 +1,27 @@
+{
+  "name": "ward16-heritage-server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "ingest": "node scripts/ingest.js",
+    "test": "vitest run"
+  },
+  "license": "MIT",
+  "description": "Express API for the Ward 16 heritage chatbot",
+  "dependencies": {
+    "@google/genai": "^2.32.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.2"
+  },
+  "devDependencies": {
+    "mammoth": "^1.13.0",
+    "supertest": "^7.3.1",
+    "vitest": "^5.0.5"
+  },
+  "private": true,
+  "type": "module"
+}

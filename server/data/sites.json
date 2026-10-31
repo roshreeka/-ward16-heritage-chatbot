@@ -1,0 +1,225 @@
+{
+  "title": "HERITAGE LANDMARKS OF KATHMANDU METROPOLITAN CITY – WARD 16",
+  "sites": [
+    {
+      "id": "22-dhara",
+      "name": "Balaju 22 Dhara",
+      "aliases": [
+        "Baisdhara",
+        "Baaisdhara",
+        "Bais Dhara",
+        "Balaju Water Garden"
+      ],
+      "suggestions": [
+        "Who built the 22 Dhara and when?",
+        "What happens during the Baisdhara / Lhuti Punhi Mela?",
+        "How did the traditional hiti water system work?",
+        "Is the water at 22 Dhara safe to drink?"
+      ],
+      "heading": "Balaju 22 Dhara (Baisdhara)",
+      "content": [
+        "Balaju’s 22 Dhara is an eighteenth-century royal water monument and a living pilgrimage place, not simply a park attraction. Historical and press accounts commonly attribute the first 21 spouts to Kathmandu’s Malla king Jaya Prakash Malla; a later 22nd spout is associated with Shah king Rana Bahadur Shah. Published accounts disagree on the exact construction year, so the safest conclusion is that the complex developed in stages during the late Malla/early Shah period rather than assigning it one certain date [1–3].",
+        "The number 22 gives the site its familiar name Baisdhara. The spouts’ carved animal or makara-like outlets, stone channels and carefully arranged bathing frontage combine practical water delivery with sacred design. In the Valley’s traditional hiti system, water was brought through canals or subsurface conduits, filtered through layers of gravel and directed by gravity; ponds and recharge areas helped sustain groundwater. This wider engineering tradition depended on catchments and community upkeep, often organised through guthi institutions [4]. The exact hydraulic route feeding each Balaju spout today is not established by the sources consulted.",
+        "The annual Baisdhara/Lhuti Punhi Mela on Chaitra Shukla Purnima draws Hindu and Buddhist pilgrims for ritual bathing. Devotees believe the water purifies the body and mind, brings merit and may help skin ailments; these are religious beliefs, not medically verified claims. The festival also includes worship of Bal-Nilkantha/Vishnu and nearby sacred places, with local volunteers and committees helping manage crowds [2,5]. The ritual links water, health, faith, public space and collective memory across generations.",
+        "The water garden is described in heritage documentation as a former pleasure garden of Malla queens and a tirtha, later known as Mahendra Park/Balaju Fountain Park [6]. Today, urban growth, groundwater extraction, construction and sewage contamination threaten traditional spouts across the Valley. A 2022 review found that many spouts had become non-functional or lost, and that tested water at some sites exceeded health standards; therefore, sacred water should not automatically be assumed safe to drink [4]. Conservation should protect recharge zones, test water regularly, prevent sewage intrusion, maintain stonework with traditional materials and involve local guthi and mela committees."
+      ],
+      "photos": [
+        {
+          "label": "22 Dhara spouts and festival",
+          "url": "https://gorkhapatraonline.com/news/199289",
+          "credit": "Gorkhapatra photo feature"
+        }
+      ]
+    },
+    {
+      "id": "pyatho-ajima",
+      "name": "Pyatho Ajima",
+      "aliases": [
+        "Sitalamai",
+        "Shitala Ajima",
+        "Pyathwa Ajima"
+      ],
+      "suggestions": [
+        "What does \"Ajima\" mean?",
+        "Why do families worship Sitalamai for children?",
+        "How is Pyatho Ajima different from Mhepi Ajima?",
+        "What is the 2025 KMC project at this shrine?"
+      ],
+      "heading": "Pyatho Ajima (Sitalamai / Shitala Ajima)",
+      "content": [
+        "Pyatho Ajima is identified by a recent report in The Rising Nepal as the Sitalamai temple within the Balaju Baisdhara complex [5]. A Newar-language listing also records “Pyāthwa Ajimā (Sitalamai)” at Baisdhara Garden, supporting the local name connection [7]. This is a distinct shrine from Mhepi Ajima on the Mhepi hill; the two should not be confused.",
+        "“Ajima” joins Nepal Bhasa words commonly glossed as aji (grandmother) and mā (mother), expressing the protective grandmother/mother goddess familiar in Newar religious life. At Balaju, Sitalamai is associated in local belief with protection from smallpox and other childhood illness. The belief belongs to a historical religious response to epidemic disease; it is not a substitute for vaccination or medical treatment. Wider Nepali accounts describe offerings and prayers to Sitalamai when children were ill, but detailed evidence for the exact ritual calendar and hereditary custodians of this particular Balaju shrine remains limited [8].",
+        "The shrine gains special prominence during the Baisdhara Mela, when worshippers visit it after or alongside ritual bathing. A 2025 public works notice records a Kathmandu Metropolitan City project for construction of the Sitalamai Temple, bhajan mandal and improvement of its premises in Ward 16—evidence of current civic attention to the site [9]. Its importance is therefore both devotional and communal: it gives families a place to seek protection for children, maintain offerings and songs, and renew neighbourhood ties during the annual gathering. Its conservation should preserve the shrine’s ritual use while documenting oral histories, maintaining the surrounding public space and ensuring that new construction respects its scale and setting."
+      ],
+      "photos": [
+        {
+          "label": "Pyatho/Sitalamai shrine",
+          "url": "https://commons.wikimedia.org/wiki/File:Shital_Mai_Temple_Baishdhara_Balaju_Kathmandu_Nepal_Rajesh_Dhungana_(4).jpg",
+          "credit": "Wikimedia Commons, Rajesh Dhungana, CC BY-SA"
+        },
+        {
+          "label": "Sitalamai deity",
+          "url": "https://commons.wikimedia.org/wiki/File:Shital_Mai_Devi_Baishdhara_Balaju_Kathmandu_Nepal_Rajesh_Dhungana_(2).jpg",
+          "credit": "Wikimedia Commons, Rajesh Dhungana, CC BY-SA"
+        }
+      ]
+    },
+    {
+      "id": "mhepi-ajima",
+      "name": "Mhepi Ajima",
+      "aliases": [
+        "Mhepi Mandir",
+        "Mhaypi",
+        "Mhayepi"
+      ],
+      "suggestions": [
+        "Which goddess is worshipped at Mhepi?",
+        "What happens during the Mhepi khat jatra?",
+        "Who takes care of the Mhepi temple?"
+      ],
+      "heading": "Mhepi Mandir / Mhepi Ajima",
+      "content": [
+        "Mhepi (also written Mhaypi/Mhayepi) is an old hilltop sacred site above the Bishnumati-side settlement. Its exact foundation date is unknown. A modern inscription discussed in a scholarly study connects the place with the Licchavi-era name Mhaspṛṅga/Mhasapīṭhadola, while the shrine’s religious identity is layered: its public goddess is described as Māheśvarī, while Newar Vajrayana practitioners identify esoteric aspects with Jñānaḍākinī/Jñāneśvarī and the Yogambara tradition [9]. Other local and academic summaries give different Matrika identifications, so a single simplified label would be misleading.",
+        "The main shrine is a pagoda-style temple in a wooded religious landscape. A local account records daily worship by Vajracharya Buddhist priests and a three-day annual khat jatra, beginning on Chaitra Shukla Chaturdashi; the deity’s portable image travels from its urban devaghar through neighbourhoods to Mhepi and returns after the special full-moon worship [10]. The same account describes six local Maharjan families taking turns in site care and security, while the festival’s older guthi land and financial arrangements have weakened. Mhepi’s significance lies in this interweaving of Hindu and Buddhist practice, ritual geography, soil traditions and community stewardship."
+      ],
+      "photos": []
+    },
+    {
+      "id": "siddhi-ganesh",
+      "name": "Siddhi Ganesh, Sorakhutte",
+      "aliases": [
+        "Sorakhutte Ganesh",
+        "Paknajol Ganesh"
+      ],
+      "suggestions": [
+        "What does the Ganesh image at Sorakhutte look like?",
+        "Which day is busiest for worship here?",
+        "What is the 16-pillar sattal at Sorakhutte?"
+      ],
+      "heading": "Siddhi Ganesh Temple, Sorakhutte",
+      "content": [
+        "The Sorakhutte shrine is also called Sorakhutte Ganesh, Paknajol Ganesh and Siddhi Ganesh. A heritage inventory describes Sorakhutte as a chowk associated with a 16-pillar resthouse (sattal/pati), indicating that the religious site sits within a historic public-space setting [6]. A dated photographic record shows a black stone Ganesha image adorned with silver, with a mouse figure and other deities including Saraswati and Hanuman in the complex; Tuesday is reported as a busy worship day [13]. No reliable founding inscription or construction date was located, so its origins should not be assigned to a particular king without further evidence. It remains a neighbourhood shrine for seeking Ganesha’s blessing before new beginnings and everyday undertakings."
+      ],
+      "photos": [
+        {
+          "label": "Siddhi Ganesh, Sorakhutte",
+          "url": "https://commons.wikimedia.org/wiki/File:Sorakhutte_Ganesh_Temple_Paknajole_Ganesh_Temple_Siddhi_Ganesh_Temple_Sorakhutte_Kathmandu_Nepal_Rajesh_Dhungana_(4).jpg",
+          "credit": "Wikimedia Commons, Rajesh Dhungana, Sorakhutte Ganesh Temple photograph (CC BY-SA 4.0)"
+        }
+      ]
+    },
+    {
+      "id": "nanak-math",
+      "name": "Nanak Math, Balaju",
+      "aliases": [
+        "Guru Nanak Math",
+        "Sangat Bari"
+      ],
+      "suggestions": [
+        "Did Guru Nanak really visit Nepal?",
+        "What can be found inside Nanak Math?",
+        "What problems does Nanak Math face today?"
+      ],
+      "heading": "Nanak Math (Guru Nanak Math), Balaju",
+      "content": [
+        "Nanak Math on the Bishnumati side of Balaju is an important reminder of Kathmandu’s Sikh and Udasi religious history. Sikh tradition holds that Guru Nanak visited Nepal during his third Udasi in the sixteenth century and meditated at this site beneath a peepal tree; a stone footprint marker is shown in published photographs. Accounts differ on the precise year (often 1516/1518 or 1574/75) and on the ruler associated with a land grant, so these details are best treated as tradition and archival claims requiring further verification [11,12].",
+        "The Math has been described as a historic shrine with a mahant, a handwritten Guru Granth Sahib and continuing devotional practice. Its earlier names reportedly included Sangat Bari and Guru Nanak Math. Reports also describe loss or encroachment of much of its former land and calls for restoration [13,14]. Its significance extends beyond the Sikh community: it records centuries of religious exchange and coexistence in Kathmandu."
+      ],
+      "photos": []
+    },
+    {
+      "id": "koncha-dyo",
+      "name": "Koncha Dyo",
+      "aliases": [],
+      "suggestions": [
+        "What is known about Koncha Dyo?",
+        "Why does Koncha Dyo need local verification?"
+      ],
+      "heading": "Koncha Dyo — identity requires local verification",
+      "content": [
+        "The name “Koncha Dyo” could not be matched confidently to a distinct, independently documented temple or deity in the heritage inventories, academic sources and public records located for this desk study. It would be unsafe to equate it with a nearby Ganesh shrine or another Newar deity simply because the names sound similar. The correct Nepal Bhasa spelling, precise location, deity, custodial group and festival should be confirmed with Ward 16 residents, the local guthi or a knowledgeable priest before publishing a historical claim. No authenticated photograph could be confidently attributed to this name."
+      ],
+      "photos": []
+    }
+  ],
+  "context": {
+    "heading": "Ward 16 context, conservation and community",
+    "content": [
+      "Ward 16 includes Balaju, Sorakhutte, Paknajol and neighbouring settlements [14]. Its heritage landscape reflects Kathmandu Valley patterns in which temples, mother-goddess shrines, Buddhist institutions, water structures, resthouses, courtyards and festivals organise everyday neighbourhood life. Newar religious practice is often shared across Hindu and Vajrayana Buddhist traditions; guthi groups, family custodians, musicians, priests and volunteers help carry rituals forward. The six sites together show how water, protective deities, public gathering places and interfaith institutions shape local identity.",
+      "Practical priorities are: (1) prepare a ward-level inventory with verified names, histories, photographs and custodians; (2) protect 22 Dhara’s water catchment and test its water; (3) maintain Pyatho Ajima’s shrine and bhajan space without disrupting worship; (4) support guthi-based festivals and train younger volunteers; (5) use conservation specialists for stone, brick and timber repairs; and (6) install modest interpretation signs with QR-linked sources. Community consultation should precede physical changes.",
+      "Useful questions for a future visit: Who maintains the 22 Dhara water source, and when does it flow most reliably? Which parts of the Baisdhara Mela are oldest, and what has changed? What offerings and family traditions are associated with Pyatho Ajima? Who organises its annual worship, and what stories have elders passed down?"
+    ]
+  },
+  "references": [
+    {
+      "number": 1,
+      "text": "Republica, “In Pictures: Devotees throng at Balaju for Baaisdhara Mela” (historical attribution to Jaya Prakash Malla and later 22nd spout).",
+      "url": "https://myrepublica.nagariknetwork.com/news/in-pictures-devotees-throng-at-balaju-for-baaisdhara-mela/"
+    },
+    {
+      "number": 2,
+      "text": "The Rising Nepal, “Five-day Lhuti Punhi Mela to begin on Saturday” (2025; festival, Pyath Ajima, local committee account).",
+      "url": "https://risingnepaldaily.com/news/60193"
+    },
+    {
+      "number": 3,
+      "text": "British Library Endangered Archives Programme, Balaju Bais Dhara photograph record (1950s–1970s).",
+      "url": "https://searcharchives.bl.uk/catalog/041-003940227"
+    },
+    {
+      "number": 4,
+      "text": "Shrestha et al., “Traditional stone water spouts status…” Environmental Challenges 8 (2022), DOI: 10.1016/j.envc.2022.100573.",
+      "url": "https://lib.icimod.org/records/g210f-v4172"
+    },
+    {
+      "number": 5,
+      "text": "Kathmandu Metropolitan City / Gorkhapatra public notice: Sitalamai Temple, bhajan mandal and premises improvement, KMC-16.",
+      "url": "https://epaper.gorkhapatraonline.com/pdf/3262?file=%2Fuploads%2Ffile%2F2025%2F6%2Fgorkhapatra%2F2025-06-26-11-55-49-2082-03-13.pdf"
+    },
+    {
+      "number": 6,
+      "text": "Kathmandu Valley Shrines, Ward 16 / Balaju Water Garden / Sorakhutte Ganeshthan inventory.",
+      "url": "https://www.kathmandu-valley-shrines.com/ktmvalley_php/main.php?object=066.&site=rundgang"
+    },
+    {
+      "number": 7,
+      "text": "Prakash Man Shilpakar, Ajima list (Newar deity-name listing; Pyathwa Ajima at Baisdhara).",
+      "url": "https://prakashmanshrestha.com.np/?p=221"
+    },
+    {
+      "number": 8,
+      "text": "FAO, “Biomass stove for pop-rice industry” (historical note on offerings to Sitalamai for children’s illness).",
+      "url": "https://www.fao.org/4/AD095E/AD095E03.htm"
+    },
+    {
+      "number": 9,
+      "text": "“Selected Chapters from the Catuṣpīṭha” (2012), discussion of Mhaypi and Jñānaḍākinī/Yogambara.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/images/0/02/2012_Selected_Chapters_from_the_Catupi_%281%29.pdf"
+    },
+    {
+      "number": 10,
+      "text": "SamacharDesk, “Mhaypi Ajima: a short study” (2024; origin traditions, daily worship, khat jatra and local custodians).",
+      "url": "https://www.samachardesk.com/mhaypi-ajima-short-study-20240425"
+    },
+    {
+      "number": 11,
+      "text": "Sikh Review, “Heritage” (May 2020; Nanak Math and tradition of Guru Nanak’s Nepal visit).",
+      "url": "https://www.sikhreview.org/download/article-may-2020-200611175636218.pdf"
+    },
+    {
+      "number": 12,
+      "text": "People’s Review, “A little-known story of Nepal’s Sikh connection” (2019; Nanak Math tradition and Sikh heritage).",
+      "url": "https://peoplesreview.com.np/2019/07/23/a-little-known-story-of-nepals-sikh-connection/"
+    },
+    {
+      "number": 13,
+      "text": "Wikimedia Commons, Rajesh Dhungana, Sorakhutte Ganesh Temple photograph (CC BY-SA 4.0).",
+      "url": "https://commons.wikimedia.org/wiki/File:Sorakhutte_Ganesh_Temple_Paknajole_Ganesh_Temple_Siddhi_Ganesh_Temple_Sorakhutte_Kathmandu_Nepal_Rajesh_Dhungana_(4).jpg"
+    },
+    {
+      "number": 14,
+      "text": "Kathmandu Metropolitan City, Ward 16 official page.",
+      "url": "https://kathmandu.gov.np/en/wards/ward-16"
+    }
+  ]
+}
