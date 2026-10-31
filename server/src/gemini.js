@@ -1,7 +1,7 @@
 import { GoogleGenAI } from '@google/genai';
 
 export function createGeminiChat({ apiKey, model }) {
-  if (!apiKey) console.warn('GEMINI_API_KEY is not set: copy server/.env.example to server/.env and add your key.');
+  if (!apiKey) console.warn('GEMINI_API_KEY is not set: copy server/.env.example to server/.env (or a root .env) and add your key.');
   const ai = apiKey ? new GoogleGenAI({ apiKey }) : null;
 
   return async function* streamChat({ systemPrompt, history, message }) {
