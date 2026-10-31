@@ -25,6 +25,8 @@ npm run install:all
 cp server/.env.example server/.env   # then set GEMINI_API_KEY (free key: https://aistudio.google.com/apikey)
 ```
 
+A `.env` in the repo root also works. On Windows, make sure the file isn't saved as `.env.txt`.
+
 ### Development
 
 ```bash
