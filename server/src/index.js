@@ -3,7 +3,7 @@ import { createApp } from './app.js';
 import { createGeminiChat } from './gemini.js';
 
 const port = Number(process.env.PORT) || 3001;
-const model = process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite-preview';
+const model = process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite';
 
 const app = createApp({
   streamChat: createGeminiChat({ apiKey: process.env.GEMINI_API_KEY, model }),

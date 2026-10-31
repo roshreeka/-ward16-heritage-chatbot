@@ -43,7 +43,7 @@ npm run build && npm start   # server also serves client/dist on http://localhos
 | Variable | Default | Description |
 | --- | --- | --- |
 | `GEMINI_API_KEY` | – | Google AI Studio API key (required) |
-| `GEMINI_MODEL` | `gemini-3.1-flash-lite-preview` | Gemini model ID |
+| `GEMINI_MODEL` | `gemini-3.1-flash-lite` | Gemini model ID |
 | `PORT` | `3001` | API port |
 | `CORS_ORIGIN` | `*` | Allowed browser origin |
 | `RATE_LIMIT_PER_MINUTE` | `15` | Chat requests per IP per minute |

@@ -59,6 +59,14 @@ describe('POST /api/chat', () => {
     expect(parseEvents(res.text)[0].error).toMatch(/quota/i);
   });
 
+  it('explains rejected API keys', async () => {
+    const streamChat = async function* () {
+      throw Object.assign(new Error('denied'), { status: 403 });
+    };
+    const res = await request(createApp({ streamChat })).post('/api/chat').send({ message: 'hi' });
+    expect(parseEvents(res.text)[0].error).toMatch(/API key/);
+  });
+
   it('rate limits chat requests', async () => {
     const app = createApp({ streamChat: async function* () {}, rateLimitPerMinute: 1 });
     await request(app).post('/api/chat').send({ message: 'hi' });

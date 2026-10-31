@@ -21,6 +21,12 @@ export function validateChatBody(body) {
   return null;
 }
 
+function friendlyError(status) {
+  if (status === 429) return 'The free Gemini quota is exhausted for now. Please try again shortly.';
+  if (status === 401 || status === 403) return 'The Gemini API rejected the request. Check the API key and that its project can use the Gemini API.';
+  return 'Sorry, something went wrong while generating the answer.';
+}
+
 export function createApp({ streamChat, corsOrigin = '*', rateLimitPerMinute = 15 }) {
   const app = express();
   app.use(cors({ origin: corsOrigin }));
@@ -58,12 +64,7 @@ export function createApp({ streamChat, corsOrigin = '*', rateLimitPerMinute = 1
     } catch (err) {
       console.error('Chat error:', err?.message ?? err);
       const status = err?.status ?? err?.code;
-      send({
-        error:
-          status === 429
-            ? 'The free Gemini quota is exhausted for now. Please try again shortly.'
-            : 'Sorry, something went wrong while generating the answer.',
-      });
+      send({ error: friendlyError(status) });
     } finally {
       res.end();
     }
